@@ -31,8 +31,9 @@ Self-motivated and hardworking fresher seeking an job opportunity as an Machine 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DEVADARSHINIS&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![git4](https://github.com/DEVADARSHINIS/DEVADARSHINIS/assets/115392578/f007fc9b-46ff-4551-b3dc-d9c38512256e)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DEVADARSHINIS&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
