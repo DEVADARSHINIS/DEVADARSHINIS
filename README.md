@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![git1](https://github.com/DEVADARSHINIS/DEVADARSHINIS/assets/115392578/42239048-7258-4bd6-abf1-eb964da049b0)
 # 💫 About Me:
 Self-motivated and hardworking fresher seeking an job opportunity as an Machine Learning Engineer to work in a challenging environment to prove my skills and utilize my knowledge & intelligence in the growth of the organization.
 
