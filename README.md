@@ -33,10 +33,10 @@ Self-motivated and hardworking fresher seeking an job opportunity as an Machine 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DEVADARSHINIS&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-<img align="right" alt="Coding" width="500" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
+![](https://github-readme-stats.vercel.app/api?username=DEVADARSHINIS&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DEVADARSHINIS&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVADARSHINIS&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img align="right" alt="Coding" width="500" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 
 ## 🏆 GitHub Trophies
