@@ -38,7 +38,6 @@ Self-motivated and hardworking fresher seeking an job opportunity as an Machine 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVADARSHINIS&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DEVADARSHINIS&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ![git4](https://github.com/DEVADARSHINIS/DEVADARSHINIS/assets/115392578/f007fc9b-46ff-4551-b3dc-d9c38512256e)
