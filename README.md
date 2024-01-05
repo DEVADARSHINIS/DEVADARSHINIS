@@ -20,7 +20,7 @@ Self-motivated and hardworking fresher seeking an job opportunity as an Machine 
 
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devadarshini-s-310b36247) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devadarshini-s-310b36247) 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/kimjungkook116)
 [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@kimjungkook116677)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)]( https://www.hackerrank.com/profile/kimjungkook11661)
